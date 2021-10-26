@@ -1,0 +1,51 @@
+996a9ee,xkusnir18,18 minutes ago,final push with java
+c01eddd,xkusnir18,28 hours ago,final touch, working program
+f70692a,xkusnir18,30 hours ago,Some javadoc comments, observer, thread as a timed window, exception methods
+38af9d8,xkusnir18,2 weeks ago,lambda functions, and method references
+5ae5e20,xkusnir18,2 weeks ago,Own exceptions inside AppExtentions, inside its ow class, nested classes
+0710de7,xkusnir18,3 weeks ago,more custom exceptions
+5f45d62,xkusnir18,3 weeks ago,nested classes (exception classes), and own exception, inside Action abstract class
+7e0ded3,xkusnir18,3 weeks ago,subtition actions for lambda (->) expressions
+c5b506f,xkusnir18,3 weeks ago,added second polymorphism, StateInsurance extend StandardInsurance, method setRegulations, which takes place in abstract class Actions, inside method extractRegulations
+f11c90c,xkusnir18,3 weeks ago,refactoring
+2bab825,xkusnir18,5 weeks ago,imported for eclipse
+9fce700,xkusnir18,5 weeks ago,last
+a8d3529,xkusnir18,5 weeks ago,last
+f5bad2e,xkusnir18,5 weeks ago,refactoring
+ca2be2f,xkusnir18,5 weeks ago,added working full fledge polymorphism
+4af5eaf,xkusnir18,5 weeks ago,added serialisation, basic functionality is done
+7eaf37a,xkusnir18,5 weeks ago,recreated gui application, added controllers, and lot of refactoring
+03a237b,xkusnir18,5 weeks ago,test
+7712f86,xkusnir18,5 weeks ago,finished console program
+cb661cd,xkusnir18,6 weeks ago,consoleApplication, now user can change InsuranceCompanie and Insurance programs at once
+babdd45,xkusnir18,6 weeks ago,added polymorphism
+3be3e97,xkusnir18,6 weeks ago,console application, basic functionality
+5a4fb04,xkusnir18,6 weeks ago,finished demoGui with controlers
+3cdb4fa,xkusnir18,6 weeks ago,gui added login scenes and controllers
+54612f0,xkusnir18,6 weeks ago,gui: user registration scenes; but logic is not connected, yet
+dc7ec86,xkusnir18,6 weeks ago,gui, not finished, and not connected to logic yet
+202ce4c,xkusnir18,6 weeks ago,refactoring and preparation for serialization and gui
+4099f05,xkusnir18,6 weeks ago,adding new function, user now can change not only insurance but also insurancePrograms; plus some refactoring
+4b84f0e,xkusnir18,6 weeks ago,added some classes, testing functionality
+10df537,xkusnir18,6 weeks ago,added second insuranceProgram type and refactoring
+5c43ebf,xkusnir18,6 weeks ago,added deletion from register
+a69ca0c,xkusnir18,7 weeks ago,solved adding duplicit, now it is not possible, but I created duplicit code, which has to be refactored
+bdae1a4,xkusnir18,7 weeks ago,altered access for adding to register, but duplicit users are int this phase possible
+1abbcb0,xkusnir18,7 weeks ago,addad classes (classification for visitor design pattern, correcting visitor design pattern)
+9ee2b0d,xkusnir18,7 weeks ago,refactoring and added new class NonInsuredPerson
+bfeb98f,xkusnir18,7 weeks ago,remade static class to abstract class (StateRegulations), and remade abstract class to interface (InsuranceProgram)
+cbeab47,xkusnir18,7 weeks ago,fixed semantic bug, adding to customerRegister in insurannceCompany doesnt add same person twice, - temp fix, maybe I will implament solution differently
+0b52f1d,xkusnir18,7 weeks ago,failed commit from before
+2979753,xkusnir18,7 weeks ago,testing class extendend a bit, refactored code, added some comment notes, fixed errors nullPointor exceptions
+98ddbe1,xkusnir18,7 weeks ago,work from lecture - forgotten commit, implementing visitor, creation of new class and interface, related to customer register
+d06217c,xkusnir18,8 weeks ago,addig enum
+83508f2,xkusnir18,8 weeks ago,packages are now ordered correctly, created PrivateInsuranceCompany class
+1c01231,xkusnir18,8 weeks ago,added class Billing information, and also integrating it into code- in class Insurance--- agregation
+1eefc7b,xkusnir18,8 weeks ago,adding new and empty classes
+ec1758a,xkusnir18,8 weeks ago,added polymorphism inside InsuredPerson ~class (setMyInfomation ~method)
+ae08e00,xkusnir18,8 weeks ago,division into packages, minor changes, added methods to class InsuranceCatalog
+730dddc,xkusnir18,8 weeks ago,added classes, insuranceCatalog and Programs, NOT FINISHED AT ALL
+1417f7a,xkusnir18,8 weeks ago,changes within Person class, separation of personal info into separate class, in order to ease passing informations
+e33e7d3,xkusnir18,8 weeks ago,fixed typo, in Person ~ class, and added InsuredPerson class
+7166ee2,xkusnir18,8 weeks ago,added Person ~ class; (package users)
+b43d72f,xkusnir18,8 weeks ago,first commit

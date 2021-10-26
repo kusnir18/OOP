@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="src.controllers.insurance_controllers.InsuranceDisplay">
+   <children>
+      <Button fx:id="btnBack" layoutX="495.0" layoutY="351.0" mnemonicParsing="false" onAction="#actionHome" prefHeight="25.0" prefWidth="91.0" text="Back" />
+      <Button layoutX="388.0" layoutY="351.0" mnemonicParsing="false" onAction="#actionRefresh" prefHeight="25.0" prefWidth="91.0" text="Show" />
+      <TextArea fx:id="display" layoutY="64.0" prefHeight="273.0" prefWidth="601.0" promptText="click show" />
+      <Label layoutX="15.0" layoutY="47.0" prefHeight="17.0" prefWidth="91.0" text="All insurances" />
+   </children>
+</AnchorPane>
