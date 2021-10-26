@@ -1,7 +1,7 @@
 # eHealth project 
-# STU UNI project
+(STU UNI project)
 
-JAVA + JavaFX + design patterns 
+tech: JAVA + JavaFX + design patterns 
 
 
 
